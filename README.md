@@ -1,0 +1,1 @@
+https://github.com/gadicc/meteor-blaze-react-component/issues/3
